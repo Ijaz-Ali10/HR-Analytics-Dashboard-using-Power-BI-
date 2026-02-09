@@ -148,7 +148,7 @@ Add your screenshots inside a folder named `screenshots` and link them like this
 ![Attrition Analysis](screenshots/attrition.png)
 ![Demographics](screenshots/demographics.png)
 ![Satisfaction & Performance](screenshots/satisfaction.png)
-![Salary & Experience](screenshots/salary.png)
+![Salary & Experience](image (1).png)
 
 ---
 
